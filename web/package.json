@@ -15,6 +15,7 @@
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@mdx-js/react": "1",
+    "@redwoodjs/auth": "1.4.3",
     "@redwoodjs/forms": "1.4.3",
     "@redwoodjs/router": "1.4.3",
     "@redwoodjs/web": "1.4.3",
